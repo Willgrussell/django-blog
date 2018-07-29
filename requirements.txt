@@ -1,2 +1,2 @@
-djanDjango==1.11
+Django==1.11
 pytz==2018.5
